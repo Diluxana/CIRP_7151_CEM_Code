@@ -11,4 +11,4 @@ Full Code Repository
 2. *Dimensionality Reduction and Model Creation*
    - Dimensionality reduction techniques, specifically Principal Component Analysis (PCA), are applied in this notebook to reduce the complexity of the data.
    - Four models, namely Catboost, LightGBM, XGBoost, and Multi-Layer Perceptron Network for Binary Classification, are implemented.
-   - [Dimensionality Reduction and Model Creation Notebook]()
+   - [Dimensionality Reduction and Model Creation Notebook](https://github.com/Diluxana/CIRP_7151_CEM_Code/blob/main/DIM_RED_Model_Creation.ipynb)
